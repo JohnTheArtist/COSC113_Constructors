@@ -37,7 +37,7 @@ public class student {
         this.ID = ID;
     }
 
-    public static void main(String [] args){
+    static void main(String [] args){
 
 
         // If constructors are not defined JVM will provide a default constructor
